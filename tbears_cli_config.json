@@ -4,10 +4,15 @@
     "keyStore": null,
     "from": "hxeb3df802eb7e1ae39c581f50706f774513ddf503",
     "to": "cx0000000000000000000000000000000000000000",
-    "stepLimit": "0x5000000",
+    "stepLimit": "0x400000",
     "deploy": {
         "mode": "install",
-        "scoreParams": {}
+        "scoreParams": {
+            "_name": "TestProject",
+            "_symbol": "TP",
+            "_decimals": "0x12",
+            "_initialSupply": "0x3e8"
+        }
     },
     "txresult": {},
     "transfer": {}
