@@ -1,0 +1,14 @@
+{
+    "uri": "https://sejong.net.solidwallet.io/api/v3",
+    "nid": "0x53",
+    "keyStore": null,
+    "from": "hxeb3df802eb7e1ae39c581f50706f774513ddf503",
+    "to": "cx0000000000000000000000000000000000000000",
+    "stepLimit": "0x5000000",
+    "deploy": {
+        "mode": "install",
+        "scoreParams": {}
+    },
+    "txresult": {},
+    "transfer": {}
+}

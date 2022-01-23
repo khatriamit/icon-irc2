@@ -1,0 +1,96 @@
+2022-01-22 12:24:02,188 22034 139970242619200 INFO icon_service_cli.py(133) LOG start_server() start
+2022-01-22 12:24:02,190 22034 139970242619200 INFO icon_service_cli.py(159) LOG start_process() end
+2022-01-22 12:24:02,190 22034 139970242619200 INFO icon_service_cli.py(116) IconServiceCli start_command done!
+2022-01-22 12:24:02,242 22046 139856691693376 INFO icon_rpcserver_cli.py(160) IconRpcServerCli check_if_process_running!
+2022-01-22 12:24:02,306 22046 139856691693376 INFO icon_rpcserver_cli.py(109) IconRpcServerCli start_command done!
+2022-01-22 12:24:02,359 22044 140122529331008 INFO icon_logger_util.py(161) ====================LOG CONFIG START====================
+2022-01-22 12:24:02,359 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.log.logger] > tbears
+2022-01-22 12:24:02,359 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.log.level] > info
+2022-01-22 12:24:02,359 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.log.filePath] > ./tbears.log
+2022-01-22 12:24:02,359 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.log.colorLog] > True
+2022-01-22 12:24:02,359 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.log.outputType] > file
+2022-01-22 12:24:02,359 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.log.rotate.type] > bytes
+2022-01-22 12:24:02,359 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.log.rotate.maxBytes] > 10485760
+2022-01-22 12:24:02,359 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.log.rotate.backupCount] > 10
+2022-01-22 12:24:02,359 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.scoreRootPath] > ./.score
+2022-01-22 12:24:02,359 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.stateDbRootPath] > ./.statedb
+2022-01-22 12:24:02,359 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.channel] > loopchain_default
+2022-01-22 12:24:02,359 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.amqpKey] > 7100
+2022-01-22 12:24:02,359 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.amqpTarget] > 127.0.0.1
+2022-01-22 12:24:02,359 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.builtinScoreOwner] > hxe7af5fcfd8dfc67530a01a0e403882687528dfcb
+2022-01-22 12:24:02,359 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.ipcTimeout] > 10
+2022-01-22 12:24:02,359 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.service.fee] > False
+2022-01-22 12:24:02,359 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.service.audit] > False
+2022-01-22 12:24:02,359 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.service.deployerWhiteList] > False
+2022-01-22 12:24:02,359 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.service.scorePackageValidator] > False
+2022-01-22 12:24:02,359 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.iissMetaData.rewardMin] > 200
+2022-01-22 12:24:02,359 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.iissMetaData.rewardMAX] > 1200
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.iissMetaData.rewardPoint] > 7000
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.iissMetaData.lockMin] > 216000
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.iissMetaData.lockMax] > 864000
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.iconRcPath] > 
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.iissCalculatePeriod] > 43200
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.termPeriod] > 43120
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.initialIRep] > 50000000000000000000000
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.prepRegistrationFee] > 2000000000000000000000
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.mainPRepCount] > 22
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.mainAndSubPRepCount] > 100
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.decentralizeTrigger] > 0.002
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.penaltyGracePeriod] > 86400
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.lowProductivityPenaltyThreshold] > 85
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.blockValidationPenaltyThreshold] > 660
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.stepTraceFlag] > False
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.precommitDataLogFlag] > False
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.backupFiles] > 10
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.blockInvokeTimeout] > 15
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.hostAddress] > 127.0.0.1
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.port] > 9000
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.genesis.nid] > 0x3
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.genesis.accounts] > [{'name': 'genesis', 'address': 'hx0000000000000000000000000000000000000000', 'balance': '0x2961fff8ca4a62327800000'}, {'name': 'fee_treasury', 'address': 'hx1000000000000000000000000000000000000000', 'balance': '0x0'}, {'name': 'test1', 'address': 'hxe7af5fcfd8dfc67530a01a0e403882687528dfcb', 'balance': '0x2961fff8ca4a62327800000'}]
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.blockConfirmInterval] > 10
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.blockConfirmEmpty] > True
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.blockGeneratorRotation] > True
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.blockGenerateCountPerLeader] > 10
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.blockManualConfirm] > False
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.networkDelayMs] > 500
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.verbose] > False
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.command] > start
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.config] > ./temp_conf.json
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(170) [CONFIG.tbearsMode] > False
+2022-01-22 12:24:02,360 22044 140122529331008 INFO icon_logger_util.py(163) ====================LOG CONFIG END======================
+2022-01-22 12:24:02,687 22045 140435917911872 INFO icon_logger_util.py(161) ====================LOG CONFIG START====================
+2022-01-22 12:24:02,687 22045 140435917911872 INFO icon_logger_util.py(170) [CONFIG.hostAddress] > 127.0.0.1
+2022-01-22 12:24:02,687 22045 140435917911872 INFO icon_logger_util.py(170) [CONFIG.port] > 9000
+2022-01-22 12:24:02,687 22045 140435917911872 INFO icon_logger_util.py(170) [CONFIG.scoreRootPath] > ./.score
+2022-01-22 12:24:02,688 22045 140435917911872 INFO icon_logger_util.py(170) [CONFIG.stateDbRootPath] > ./.statedb
+2022-01-22 12:24:02,688 22045 140435917911872 INFO icon_logger_util.py(170) [CONFIG.log.logger] > tbears
+2022-01-22 12:24:02,688 22045 140435917911872 INFO icon_logger_util.py(170) [CONFIG.log.level] > info
+2022-01-22 12:24:02,688 22045 140435917911872 INFO icon_logger_util.py(170) [CONFIG.log.filePath] > ./tbears.log
+2022-01-22 12:24:02,688 22045 140435917911872 INFO icon_logger_util.py(170) [CONFIG.log.colorLog] > True
+2022-01-22 12:24:02,688 22045 140435917911872 INFO icon_logger_util.py(170) [CONFIG.log.outputType] > file
+2022-01-22 12:24:02,688 22045 140435917911872 INFO icon_logger_util.py(170) [CONFIG.log.rotate.type] > bytes
+2022-01-22 12:24:02,688 22045 140435917911872 INFO icon_logger_util.py(170) [CONFIG.log.rotate.maxBytes] > 10485760
+2022-01-22 12:24:02,688 22045 140435917911872 INFO icon_logger_util.py(170) [CONFIG.log.rotate.backupCount] > 10
+2022-01-22 12:24:02,688 22045 140435917911872 INFO icon_logger_util.py(170) [CONFIG.service.fee] > False
+2022-01-22 12:24:02,688 22045 140435917911872 INFO icon_logger_util.py(170) [CONFIG.service.audit] > False
+2022-01-22 12:24:02,688 22045 140435917911872 INFO icon_logger_util.py(170) [CONFIG.service.deployerWhiteList] > False
+2022-01-22 12:24:02,688 22045 140435917911872 INFO icon_logger_util.py(170) [CONFIG.builtinScoreOwner] > hxe7af5fcfd8dfc67530a01a0e403882687528dfcb
+2022-01-22 12:24:02,688 22045 140435917911872 INFO icon_logger_util.py(170) [CONFIG.genesis.nid] > 0x3
+2022-01-22 12:24:02,688 22045 140435917911872 INFO icon_logger_util.py(170) [CONFIG.genesis.accounts] > [{'name': 'genesis', 'address': 'hx0000000000000000000000000000000000000000', 'balance': '0x2961fff8ca4a62327800000'}, {'name': 'fee_treasury', 'address': 'hx1000000000000000000000000000000000000000', 'balance': '0x0'}, {'name': 'test1', 'address': 'hxe7af5fcfd8dfc67530a01a0e403882687528dfcb', 'balance': '0x2961fff8ca4a62327800000'}]
+2022-01-22 12:24:02,688 22045 140435917911872 INFO icon_logger_util.py(170) [CONFIG.channel] > loopchain_default
+2022-01-22 12:24:02,688 22045 140435917911872 INFO icon_logger_util.py(170) [CONFIG.amqpKey] > 7100
+2022-01-22 12:24:02,688 22045 140435917911872 INFO icon_logger_util.py(170) [CONFIG.amqpTarget] > 127.0.0.1
+2022-01-22 12:24:02,688 22045 140435917911872 INFO icon_logger_util.py(170) [CONFIG.blockConfirmInterval] > 10
+2022-01-22 12:24:02,688 22045 140435917911872 INFO icon_logger_util.py(170) [CONFIG.blockConfirmEmpty] > True
+2022-01-22 12:24:02,688 22045 140435917911872 INFO icon_logger_util.py(170) [CONFIG.blockGeneratorRotation] > True
+2022-01-22 12:24:02,688 22045 140435917911872 INFO icon_logger_util.py(170) [CONFIG.blockGenerateCountPerLeader] > 10
+2022-01-22 12:24:02,688 22045 140435917911872 INFO icon_logger_util.py(170) [CONFIG.blockManualConfirm] > False
+2022-01-22 12:24:02,689 22045 140435917911872 INFO icon_logger_util.py(170) [CONFIG.networkDelayMs] > 500
+2022-01-22 12:24:02,689 22045 140435917911872 INFO icon_logger_util.py(163) ====================LOG CONFIG END======================
+2022-01-22 12:24:02,713 22045 140435917911872 INFO block_manager.py(135) tbears_block_manager ==========tbears block_manager params==========
+2022-01-22 12:24:02,713 22045 140435917911872 INFO block_manager.py(136) tbears_block_manager amqp_target : 127.0.0.1
+2022-01-22 12:24:02,713 22045 140435917911872 INFO block_manager.py(137) tbears_block_manager amqp_key    : 7100
+2022-01-22 12:24:02,713 22045 140435917911872 INFO block_manager.py(138) tbears_block_manager queue_name  : Channel.loopchain_default.7100
+2022-01-22 12:24:02,713 22045 140435917911872 INFO block_manager.py(139) tbears_block_manager             : ChannelTxCreator.loopchain_default.7100
+2022-01-22 12:24:02,713 22045 140435917911872 INFO block_manager.py(140) tbears_block_manager             : IconScore.loopchain_default.7100
+2022-01-22 12:24:02,713 22045 140435917911872 INFO block_manager.py(141) tbears_block_manager ==========tbears block_manager params==========
